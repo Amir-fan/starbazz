@@ -1,0 +1,102 @@
+{
+  "name": "STAR BAZZ - Premium Natural Charcoal",
+  "short_name": "STAR BAZZ",
+  "description": "Premium Natural Charcoal and Hookah Accessories since 2005",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#D4AF37",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/D4AF37/111111?text=SB",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/D4AF37/111111?text=SB",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/72x72/D4AF37/111111?text=SB",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/96x96/D4AF37/111111?text=SB",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/128x128/D4AF37/111111?text=SB",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/144x144/D4AF37/111111?text=SB",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/152x152/D4AF37/111111?text=SB",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/384x384/D4AF37/111111?text=SB",
+      "sizes": "384x384",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["business", "shopping", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "https://via.placeholder.com/1280x720/111111/D4AF37?text=STAR+BAZZ+Homepage",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "STAR BAZZ Homepage"
+    },
+    {
+      "src": "https://via.placeholder.com/750x1334/111111/D4AF37?text=STAR+BAZZ+Mobile",
+      "sizes": "750x1334",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "STAR BAZZ Mobile View"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Our Products",
+      "short_name": "Products",
+      "description": "Browse our premium charcoal products",
+      "url": "/#products",
+      "icons": [
+        {
+          "src": "https://via.placeholder.com/96x96/D4AF37/111111?text=P",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Contact Us",
+      "short_name": "Contact",
+      "description": "Get in touch with STAR BAZZ",
+      "url": "/#contact",
+      "icons": [
+        {
+          "src": "https://via.placeholder.com/96x96/D4AF37/111111?text=C",
+          "sizes": "96x96"
+        }
+      ]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+} 

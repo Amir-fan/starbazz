@@ -1,0 +1,46 @@
+{
+  "name": "starbazz-website",
+  "version": "1.0.0",
+  "description": "STAR BAZZ - Premium Natural Charcoal and Hookah Accessories Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "dev": "live-server --port=8000",
+    "build": "echo 'Static website - no build process required'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "charcoal",
+    "hookah",
+    "accessories",
+    "premium",
+    "natural",
+    "arabic",
+    "responsive",
+    "luxury",
+    "turkey"
+  ],
+  "author": "STAR BAZZ Team",
+  "license": "Proprietary",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starbazz/website.git"
+  },
+  "homepage": "https://starbazz.com",
+  "bugs": {
+    "url": "https://github.com/starbazz/website/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+} 
